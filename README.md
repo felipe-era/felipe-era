@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá ;) 👋
+
+<a href="https://br.linkedin.com/in/felipe-eduardo-da-costa-46a1a6218"><img src="https://raw.githubusercontent.com/felipe-era/felipe-era/main/linkedin.png" width="42"></img></a> 
+
+
 
 <!--
 **felipe-era/felipe-era** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
