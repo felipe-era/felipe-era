@@ -1,4 +1,4 @@
-### Olá, hello, hola ;)  🚀
+### Olá, hello, hola ;)  🚀  <a href="https://github.com/felipe-era"></a> <img href="https://github.com/felipe-era" src="https://komarev.com/ghpvc/?username=felipe-era&color=blueviolet" alt="Profile views"/>
 
 <a href="https://br.linkedin.com/in/felipe-eduardo-da-costa-46a1a6218"><img src="https://raw.githubusercontent.com/felipe-era/felipe-era/main/linkedin.png" width="42"></img></a> 
 
