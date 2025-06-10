@@ -24,7 +24,7 @@ Conhecimento em programação para criar soluções robustas e escaláveis em qu
 </div>
 
 ---
-<a href="https://br.linkedin.com/in/felipe-eduardo-da-costa-46a1a6218"><img src="https://raw.githubusercontent.com/felipe-era/felipe-era/main/linkedin.png" width="42"></img></a> <3 Connect with me on 
+<a href="https://www.linkedin.com/in/felipeera/"><img src="https://raw.githubusercontent.com/felipe-era/felipe-era/main/linkedin.png" width="42"></img></a> <3 Connect with me on 
 
 
 
