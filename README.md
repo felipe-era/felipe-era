@@ -26,10 +26,6 @@ Profissional de QA com experiência em automação de testes, testes manuais, AP
 
 ### 🧪 Principais Projetos
 
-- 🟢 **Robot Framework**<br>
-  Testes automatizados com sintaxe legível e geração de relatórios<br>
-  🔗 [felipe-era/RobotFramework](https://github.com/felipe-era/RobotFramework)
-
 - 📱 **Appium + Java (SwagLabs)**<br>
   Automação mobile Android com Java e Appium<br>
   🔗 [felipe-era/AppiumAndroidTestsSwagLabsFee](https://github.com/felipe-era/AppiumAndroidTestsSwagLabsFee)
@@ -45,6 +41,10 @@ Profissional de QA com experiência em automação de testes, testes manuais, AP
 - 🌐 **Cypress**<br>
   Testes E2E com Cypress, focado em aplicações web<br>
   🔗 [felipe-era/CypressTest](https://github.com/felipe-era/CypressTest)
+
+- 🟢 **Robot Framework**<br>
+  Testes automatizados com sintaxe legível e geração de relatórios<br>
+  🔗 [felipe-era/RobotFramework](https://github.com/felipe-era/RobotFramework)
 
 - 🧩 **.NET 7 + Razor Pages**<br>
   Projeto full stack com .NET 7 e Razor Pages<br>
