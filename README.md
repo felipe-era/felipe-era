@@ -49,6 +49,9 @@ Profissional de QA com experiência em automação de testes, testes manuais, AP
   Projeto full stack com .NET 7 e Razor Pages<br>
   🔗 [felipe-era/FeRazorApp](https://github.com/felipe-era/FeRazorApp)
 
+- 🖥️ **CRUD com Delphi**<br>
+  Projeto de vendas com CRUD completo utilizando Delphi<br>
+  🔗 [felipe-era/VendasCRUDDelphi](https://github.com/felipe-era/VendasCRUDDelphi)
 
 
 ---
