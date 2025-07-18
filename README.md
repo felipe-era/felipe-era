@@ -31,7 +31,7 @@ Profissional de QA com experiência em automação de testes, testes manuais, AP
 
 - 🔥 **Testes API e E2E com Playwright**<br>
   Automação moderna com Playwright em projetos reais<br>
-  🔗 [felipe-era/AppiumAndroidTestsSwagLabsFee](https://github.com/felipe-era/AppiumAndroidTestsSwagLabsFee)
+  🔗 [felipe-era/pwright_regres_swaglabs](https://github.com/felipe-era/pwright_regres_swaglabs)
 
 - 🎭 **Outro projeto com Playwright**<br>
   Testes automatizados usando Playwright focado em múltiplos fluxos<br>
