@@ -3,7 +3,6 @@
 Felipe aqui;     
 
 Profissional de QA com experiência em automação de testes, testes manuais, APIs e pipelines CI/CD.
-Conhecimento em programação para criar soluções robustas e escaláveis em qualidade.
 
 ---
 
@@ -22,6 +21,36 @@ Conhecimento em programação para criar soluções robustas e escaláveis em qu
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/robot_framework.png" alt="Robot Framework" title="Robot Framework"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" alt="Playwright" title="Playwright"/></code>
 </div>
+
+---
+
+### 🧪 Principais Projetos
+
+- 🟢 **Robot Framework**<br>
+  Testes automatizados com sintaxe legível e geração de relatórios<br>
+  🔗 [felipe-era/RobotFramework](https://github.com/felipe-era/RobotFramework)
+
+- 📱 **Appium + Java (SwagLabs)**<br>
+  Automação mobile Android com Java e Appium<br>
+  🔗 [felipe-era/AppiumAndroidTestsSwagLabsFee](https://github.com/felipe-era/AppiumAndroidTestsSwagLabsFee)
+
+- 🔥 **Testes API e E2E com Playwright**<br>
+  Automação moderna com Playwright em projetos reais<br>
+  🔗 [felipe-era/AppiumAndroidTestsSwagLabsFee](https://github.com/felipe-era/AppiumAndroidTestsSwagLabsFee)
+
+- 🎭 **Outro projeto com Playwright**<br>
+  Testes automatizados usando Playwright focado em múltiplos fluxos<br>
+  🔗 [felipe-era/PlayWrightTudinho](https://github.com/felipe-era/PlayWrightTudinho)
+
+- 🌐 **Cypress**<br>
+  Testes E2E com Cypress, focado em aplicações web<br>
+  🔗 [felipe-era/CypressTest](https://github.com/felipe-era/CypressTest)
+
+- 🧩 **.NET 7 + Razor Pages**<br>
+  Projeto full stack com .NET 7 e Razor Pages<br>
+  🔗 [felipe-era/FeRazorApp](https://github.com/felipe-era/FeRazorApp)
+
+
 
 ---
 <a href="https://www.linkedin.com/in/felipeera/"><img src="https://raw.githubusercontent.com/felipe-era/felipe-era/main/linkedin.png" width="42"></img></a> <3 Connect with me on 
