@@ -3,7 +3,7 @@
 
 Profissional de QA com experiência em automação de testes, testes manuais, APIs e pipelines CI/CD.
 
----
+
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
@@ -21,40 +21,79 @@ Profissional de QA com experiência em automação de testes, testes manuais, AP
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" alt="Playwright" title="Playwright"/></code>
 </div>
 
----
 
 ### 🧪 Principais Projetos
 
-- 📱 **Appium + Java (SwagLabs)**<br>
-  Automação mobile Android com Java e Appium<br>
-  🔗 [felipe-era/AppiumAndroidTestsSwagLabsFee](https://github.com/felipe-era/AppiumAndroidTestsSwagLabsFee)
+<table align="center">
+<tr>
+<td width="33%" valign="top">
+📱 <b>Appium + Java (App SwagLabs)</b><br>
+Automação mobile Android com Java e Appium<br><br>
+🔗 <a href="https://github.com/felipe-era/AppiumAndroidTestsSwagLabsFee">AppiumAndroidTestsSwagLabsFee</a>
+</td>
 
-- 🔥 **Testes API e E2E com Playwright**<br>
-  Automação moderna com Playwright em projetos reais<br>
-  🔗 [felipe-era/pwright_regres_swaglabs](https://github.com/felipe-era/pwright_regres_swaglabs)
+<td width="33%" valign="top">
+📱 <b>WebDriver.IO + TypeScript (App WebDriver.IO)</b><br>
+Automação mobile WebDriver.IO com TypeScript e Appium<br><br>
+🔗 <a href="https://github.com/felipe-era/WdioNativeAppTest">WdioNativeAppTest</a>
+</td>
+</tr>
 
-- 🎭 **Outro projeto com Playwright**<br>
-  Testes automatizados usando Playwright focado em múltiplos fluxos<br>
-  🔗 [felipe-era/PlayWrightTudinho](https://github.com/felipe-era/PlayWrightTudinho)
+<tr>
 
-- 🌐 **Cypress**<br>
-  Testes E2E com Cypress, focado em aplicações web<br>
-  🔗 [felipe-era/CypressTest](https://github.com/felipe-era/CypressTest)
+<td width="33%" valign="top">
+🔥 <b>Testes API e E2E com Playwright</b><br>
+Automação moderna com Playwright em projetos reais<br><br>
+🔗 <a href="https://github.com/felipe-era/pwright_regres_swaglabs">Pwright_regres_swaglabs</a>
+</td>
 
-- 🟢 **Robot Framework**<br>
-  Testes automatizados com sintaxe legível e geração de relatórios<br>
-  🔗 [felipe-era/RobotFramework](https://github.com/felipe-era/RobotFramework)
+<td width="33%" valign="top">
+🎭 <b>Playwright – Fluxos Diversos</b><br>
+Testes automatizados focados em múltiplos fluxos<br><br>
+🔗 <a href="https://github.com/felipe-era/PlayWrightTudinho">PlayWrightTudinho</a>
+</td>
 
-- 🧩 **.NET 7 + Razor Pages**<br>
-  Projeto full stack com .NET 7 e Razor Pages<br>
-  🔗 [felipe-era/FeRazorApp](https://github.com/felipe-era/FeRazorApp)
+<td width="33%" valign="top">
+🎁 <b>Testes de API com Playwright</b><br>
+Automação de testes de API com Playwright<br><br>
+🔗 <a href="https://github.com/felipe-era/ApiServerestTest">ApiServerestTest</a>
+</td>
+</tr>
 
-- 🖥️ **CRUD com Delphi**<br>
-  Projeto de vendas com CRUD completo utilizando Delphi<br>
-  🔗 [felipe-era/VendasCRUDDelphi](https://github.com/felipe-era/VendasCRUDDelphi)
+<tr>
+<td width="33%" valign="top">
+🌐 <b>Cypress</b><br>
+Testes E2E focados em aplicações web<br><br>
+🔗 <a href="https://github.com/felipe-era/CypressTest">CypressTest</a>
+</td>
+
+<td width="33%" valign="top">
+🟢 <b>Robot Framework</b><br>
+Automação com sintaxe legível e relatórios<br><br>
+🔗 <a href="https://github.com/felipe-era/RobotFramework">RobotFramework</a>
+</td>
+
+<td width="33%" valign="top">
+🧩 <b>.NET 7 + Razor Pages</b><br>
+Projeto full stack com Razor Pages<br><br>
+🔗 <a href="https://github.com/felipe-era/FeRazorApp">FeRazorApp</a>
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+🖥️ <b>CRUD com Delphi</b><br>
+Sistema de vendas com CRUD completo<br><br>
+🔗 <a href="https://github.com/felipe-era/VendasCRUDDelphi">VendasCRUDDelphi</a>
+</td>
+
+<td width="33%"></td>
+<td width="33%"></td>
+</tr>
+</table>
 
 
----
+
 <a href="https://www.linkedin.com/in/felipeera/"><img src="https://raw.githubusercontent.com/felipe-era/felipe-era/main/linkedin.png" width="42"></img></a> <3 Connect with me on 
 
 
