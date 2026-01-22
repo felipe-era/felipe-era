@@ -37,7 +37,18 @@ Automação mobile Android com Java e Appium<br><br>
 Automação mobile WebDriver.IO com TypeScript e Appium<br><br>
 🔗 <a href="https://github.com/felipe-era/WdioNativeAppTest">WdioNativeAppTest</a>
 </td>
+
+<td width="33%" valign="top">
+📱 <b> Playwright + JS </b><br>
+Projeto estruturado de testes de API utilizando Playwright e JavaScript<br><br>
+🔗 <a href="https://github.com/felipe-era/PW-API-Test-Architecture">PW-API-Test-Architecture</a>
+</td>
+
+
+
 </tr>
+
+
 
 <tr>
 
