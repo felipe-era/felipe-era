@@ -104,12 +104,12 @@ Sistema de vendas com CRUD completo<br><br>
 </table>
 
 
-
+<!--
 <a href="https://www.linkedin.com/in/felipeera/"><img src="https://raw.githubusercontent.com/felipe-era/felipe-era/main/linkedin.png" width="42"></img></a> <3 Connect with me on 
 
 
 
-<!--
+
 **felipe-era/felipe-era** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
