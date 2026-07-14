@@ -53,8 +53,8 @@ Projeto estruturado de testes de API utilizando Playwright e JavaScript<br><br>
 <tr>
 
 <td width="33%" valign="top">
-🔥 <b>Testes API e E2E com Playwright</b><br>
-Automação moderna com Playwright em projetos reais<br><br>
+🔥 <b>Playwright</b><br>
+API e E2E com Playwright em projetos reais<br><br>
 🔗 <a href="https://github.com/felipe-era/pwright_regres_swaglabs">Pwright_regres_swaglabs</a>
 </td>
 
@@ -65,13 +65,21 @@ Testes automatizados focados em múltiplos fluxos<br><br>
 </td>
 
 <td width="33%" valign="top">
-🎁 <b>Testes de API com Playwright</b><br>
+🎁 <b>Playwright</b><br>
 Automação de testes de API com Playwright<br><br>
 🔗 <a href="https://github.com/felipe-era/ApiServerestTest">ApiServerestTest</a>
 </td>
 </tr>
 
 <tr>
+
+<td width="33%" valign="top">
+⛳️ <b>Testes de API com REST Assured</b><br>
+Automação de testes de API com REST Assured<br><br>
+🔗 <a href="https://github.com/felipe-era/RestAssuredTest">RestAssuredTest</a>
+</td>
+
+	
 <td width="33%" valign="top">
 🌐 <b>Cypress</b><br>
 Testes E2E focados em aplicações web<br><br>
@@ -84,24 +92,24 @@ Automação com sintaxe legível e relatórios<br><br>
 🔗 <a href="https://github.com/felipe-era/RobotFramework">RobotFramework</a>
 </td>
 
+</tr>
+<tr>
 <td width="33%" valign="top">
 🧩 <b>.NET 7 + Razor Pages</b><br>
 Projeto full stack com Razor Pages<br><br>
 🔗 <a href="https://github.com/felipe-era/FeRazorApp">FeRazorApp</a>
 </td>
-</tr>
 
-<tr>
+
+
 <td width="33%" valign="top">
 🖥️ <b>CRUD com Delphi</b><br>
 Sistema de vendas com CRUD completo<br><br>
 🔗 <a href="https://github.com/felipe-era/VendasCRUDDelphi">VendasCRUDDelphi</a>
 </td>
-
-<td width="33%"></td>
-<td width="33%"></td>
 </tr>
-</table>
+
+
 
 
 <!--
